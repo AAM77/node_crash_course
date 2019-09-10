@@ -18,3 +18,9 @@ console.log(os.freemem());
 
 // Total memory
 console.log(os.totalmem());
+
+// Home dir
+console.log(os.homedir());
+
+// Uptime (amount of time system has been up -- in seconds)
+console.log(os.uptime());
